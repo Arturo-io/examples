@@ -1,2 +1,5 @@
 pages:
   - 1.md
+formats:
+  - html
+  - pdf
